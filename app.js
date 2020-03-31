@@ -1,1 +1,1 @@
-console.log('Hell');
+console.log("Welcome to Eventify-GH");
